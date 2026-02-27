@@ -15,7 +15,8 @@ Breve overview degli esercizi principali.
 
 - **Esercizio 01 – tracking satellite ISS**  
   - **Obiettivo:** esercizio introduttivo di tracciamento in tempo reale della posizione della Stazione Spaziale Internazionale.  
-  - **Tecnologie:** HTML, CSS, JavaScript, eventuali API per il tracking satellitare.  
+  - **Tecnologie:** HTML, CSS, JavaScript, eventuali API per il tracking satellitare.
+  - **Link:** http://127.0.0.1:5500/es01_opennotify/index.html
 
 ## 🚀 Progetti
 

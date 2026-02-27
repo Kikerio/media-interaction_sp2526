@@ -14,31 +14,28 @@ Repository per il corso di **Media Interaction SP25/26** (SUPSI) – esercizi, p
 Breve overview degli esercizi principali. 
 
 - **Esercizio 01 – tracking satellite ISS**
-  - Obiettivo: ...
-  - Tecnologie: ...
-
+  - Obiettivo: esercizio introduttivo di tracciamento in tempo reale della posizione della Stazione Spaziale Internazionale.
+  - Tecnologie: HTML, CSS, JavaScript, eventuali API per il tracking satellitare.
 
 ## 🚀 Progetti
-NASA 70
 
-### Progetto 01 – Titolo progetto
+### Progetto 01 – NASA 70
 
-- **Descrizione:** breve descrizione del concept
-- **Tecnologie:** es. HTML, CSS, JavaScript, p5.js, Three.js, ecc.
-- **Stato:** in corso 
-- **Demo:** link:
-- **Screenshot:** (se vuoi, aggiungi immagini qui)
-
+- **Descrizione:** Pagina web divulgativa che celebra i 70 anni della NASA (1958–2028) esplorando i suoi archivi digitali. Il focus è sul contrasto tra come lo spazio veniva immaginato prima della conquista spaziale (illustrazioni, poster, cinema, fantascienza) e le immagini e i dati reali prodotti dall’agenzia.
+- **Concept:** Mettere in dialogo l’immaginario pre-conquista (lo spazio come mito e fantasia) con il patrimonio visivo e scientifico della NASA (lo spazio documentato e misurabile), creando un’esperienza narrativa che mostra il passaggio dal sogno collettivo alla realtà archivistica.
+- **Tecnologie:** HTML, CSS, JavaScript, (eventuali librerie come p5.js, Three.js, GSAP, ecc.).
+- **Stato:** in corso.
+- **Demo:** link (da aggiungere).
+- **Screenshot:** da aggiungere (work in progress).
 
 ## 🛠 Tecnologie & strumenti
 
 - JavaScript
-- p5.js / Three.js (se li usi)
+- p5.js / Three.js (se utilizzate)
 - HTML / CSS
 - GitHub / Git
-
 
 ## 👤 Autore
 
 - **Nome:** Michelle Chicherio  
-- **Ruolo:** Studentessa Visual Communication, SUPSI  
+- **Ruolo:** Studentessa Visual Communication, SUPSI
